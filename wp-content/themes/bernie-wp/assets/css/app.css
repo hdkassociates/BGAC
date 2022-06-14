@@ -9523,6 +9523,7 @@ i {
   -moz-transform: skew(25deg);
   -o-transform: skew(25deg);
   display: inline-block;
+  font-size: 15px;
 }
 
 .btn:hover, .btn:active, .btn:focus {
@@ -9562,7 +9563,7 @@ i {
 }
 
 ul.cd-secondary-nav li a.btn.btn-md {
-	width: 100px;
+	width: 105px;
 }
 
 .btn.btn-lg {
@@ -12059,7 +12060,7 @@ nav a.btn-lightgrey i {
 }
 
 ul.cd-secondary-nav li a.btn-md {
-  padding: 7px 15px 9px 15px;
+  padding: 7px 15px 9px 12px;
 }
 
 ul.cd-secondary-nav li a.btn-sm {
