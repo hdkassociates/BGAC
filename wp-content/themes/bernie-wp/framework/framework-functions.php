@@ -10,7 +10,7 @@ define('WP_DEBUG_DISPLAY', false);
 // include_once('functions/post-types/indicators.php');
 include_once('functions/post-types/see.php');
 include_once('functions/post-types/do.php');
-include_once('functions/post-types/visit.php');
+//include_once('functions/post-types/visit.php');
 include_once('functions/post-types/explore.php');
 include_once('functions/post-types/hire.php');
 include_once('functions/post-types/sidebar.php');
