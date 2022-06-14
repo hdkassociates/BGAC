@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="city-statepolicy" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M12,23.2 C5.8144108,23.2 0.8,18.1855892 0.8,12 C0.8,5.8144108 5.8144108,0.8 12,0.8 C18.1855892,0.8 23.2,5.8144108 23.2,12 C23.2,18.1855892 18.1855892,23.2 12,23.2 Z M16.396,7.43 C15.593,6.744 14.465,6.4 13.012,6.4 L8,6.4 L8,17.6 L10.978,17.6 L10.978,14.5 L13.012,14.5 C14.466,14.5 15.593,14.136 16.396,13.406 C17.199,12.676 17.6,11.651 17.6,10.33 C17.6,9.084 17.199,8.118 16.396,7.43 Z M14.273,11.72 C13.942,12.018 13.473,12.168 12.865,12.168 L10.978,12.168 L10.978,8.732 L12.865,8.732 C13.473,8.732 13.942,8.879 14.273,9.172 C14.603,9.465 14.769,9.883 14.769,10.426 C14.769,10.99 14.603,11.422 14.273,11.72 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

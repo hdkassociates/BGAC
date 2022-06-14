@@ -1,0 +1,150 @@
+.see-desktop {
+	margin-top: -55px;
+}
+
+.hero-section .filter-container .filter-what.see-desktop .what {
+    margin-left: 40px;
+    cursor: default;
+}
+
+.see-desktop .second-nav-line {
+	margin-left: 20px;
+}
+
+/* SIGN UP
+----------------------------------------------------------------------------------------*/
+.sign-up-information {
+	display: block;
+	margin: 1em 0;
+}
+
+.form-wrapper {
+  width: 100%;
+  max-width: 40em;
+  margin: 0 auto;
+}
+
+.w-form {
+	margin: 0 0 15px
+}
+
+.w-form-done {
+	display: none;
+	padding: 20px;
+	background-color: #ddd
+}
+
+.w-form-fail {
+	display: none;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #ffdede;
+}
+
+.w-input {
+	display: block;
+	width: 100%;
+  font-family: 'Lato-Regular', 'Lucida Sans Unicode','Lucida Grande',sans-serif;
+  font-size: 16px;
+	color: #000;
+  padding: 0.75em;
+	vertical-align: middle;
+	background-color: #FFF;
+	border: 1px solid #d4d4d4;;
+  margin: 0 auto 10px;
+}
+
+.submit-button {
+  display: block;
+  background-color: #cddc54;
+  border: 0 solid #cddc54;
+  border-radius: 0;
+  color: #000000;
+  font-family: 'Lato-Black', 'Lucida Sans Unicode','Lucida Grande',sans-serif;
+  font-size: 16px;
+  padding: 0.25em 0.625em 0.35em;
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 20px;
+  outline: none;
+  text-transform: uppercase;
+  padding: 0.75em;
+  cursor: pointer;
+  }
+  @media screen and (max-width: 455px) {
+    .submit-button {
+      width: 100%;
+      }
+  }
+
+.submit-button:hover {
+	border-color: #afafaf;;
+	background-color: #afafaf;;
+	color: #FFFFFF;
+}
+
+.w-select[multiple],
+textarea.w-input,
+textarea.w-select {
+	height: auto;
+}
+
+.w-input:-moz-placeholder,
+.w-input::-moz-placeholder,
+.w-input:-ms-input-placeholder,
+.w-input::-webkit-input-placeholder {
+	color: #c8c8c8;
+  font-weight: 300;
+}
+
+.w-input:focus {
+	border-color: #cddc54;
+	outline: 0
+}
+
+.w-input[disabled],
+.w-input[readonly],
+fieldset[disabled] .w-input {
+	cursor: not-allowed;
+	background-color: #eee
+}
+
+.w-form-done {
+	text-align: center
+}
+
+.form {
+}
+
+.field-label,
+.form-block {
+	display: block
+}
+
+.field-label {
+	width: 200px;
+	margin-right: 72px;
+	margin-bottom: 0
+}
+
+textarea,
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"],
+.input-checkbox,
+.submit-button,
+.w-input {
+-webkit-appearance: none;
+border-radius: 0;
+}
+
+.wpcf7-submit{
+    transform: skew(-18deg);
+    background-color: #C2D84D;
+    border: transparent;
+    padding: 7px 50px 9px 20px;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: bold; text-transform: uppercase;
+}
